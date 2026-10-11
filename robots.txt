@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://oshuangfeihong2-alt.github.io/plain-notes/sitemap.xml
